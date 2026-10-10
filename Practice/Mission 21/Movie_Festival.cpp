@@ -8,9 +8,9 @@ using ll = long long;
 
 void solve()
 {
-    int n, k;
-    cin >> n >> k;
-    vector<int, vector<int>> a()
+    int n;
+    cin >> n;
+    
 }
 
 int main()
